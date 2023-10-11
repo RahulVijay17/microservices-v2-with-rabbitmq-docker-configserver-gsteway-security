@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to eazybank cards related QA APIs"
+  contactDetails:
+    name: "Parveen Kumar - Developer"
+    email: "supraveensrt@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)555-1345
